@@ -1,0 +1,4 @@
+-  Hi, I’m @SkyQRowan
+-  I’m interested in video games and animals
+-  I’m currently learning javascript
+-  I have some knowledge of HTML and CSS.. all self taught :)
